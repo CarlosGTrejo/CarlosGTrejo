@@ -4,9 +4,10 @@
   
 
 ##  I'm a Computer Science Student and an aspiring Data Scientist
-- I'm interested in working on cool Data Schience projects and in app development with Flutter and Svelte
+- I'm interested in working on cool Data Science projects but sometimes I work on more than I can handle (eg. [NabettoBot](https://github.com/CarlosGTrejo/NabettoBot))
 - I recently published my first Python Package! [IPythonClipboard][ipythonclipboard]
-- I like working on Python projects with a small group of people, but I have no experience working on open source projects.
+- I like working on Python projects in small groups of people, but I'd like to contribute to open source projects more.
+- I'm working on my personal website from scratch, it's expected to be up in a week or so 📆
   
 
 ###  Social Media and Other Stuff:
