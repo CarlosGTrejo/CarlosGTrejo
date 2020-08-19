@@ -50,10 +50,7 @@
 <br/>
   
 
-<img  align="left"  alt="CarlosGTrejo's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=CarlosGTrejo&show_icons=true&hide_border=true&count_private=true"  />
-
-  
-###### <sub>Python 3, HTLM 5, CSS 3, JS, PyCharm, Git, Discord, and VS Code icons by Icons8</sub>
+<img  align="left"  alt="CarlosGTrejo's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=CarlosGTrejo&show_icons=true&hide_border=true&count_private=true"/>
 
 [linkedin]:  https://www.linkedin.com/in/carlos-g-trejo/
 
@@ -64,3 +61,5 @@
 [discord]:  https://gist.githubusercontent.com/CarlosGTrejo/aa637f7bab8220b76a501760d13344f5/raw/ee8438c4538d2447ab919167263c0fb298497c7a/Discord%2520Tag
 
 [ipythonclipboard]: https://pypi.org/project/IPythonClipboard/
+
+###### <sub>Python 3, HTLM 5, CSS 3, JS, PyCharm, Git, Discord, and VS Code icons by Icons8</sub>
